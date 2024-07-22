@@ -1,0 +1,3 @@
+[submodule "tattler-server"]
+	path = tattler-server
+	url = https://github.com/cristianruben513/tattler-server.git
